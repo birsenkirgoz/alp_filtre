@@ -10,12 +10,15 @@ html {
 div#main-container {
 	margin-top: 0;
 	margin-bottom: 0;
-	box-shadow: 2px 0 8px 0 #b2b9c1;
+	box-shadow: 0px 0 12px 0 #b2b9c1;
 }
 
 div#main-container #header-image {
 	min-height: 12px;
+        margin:1px;
 }
+
+#header-image img{width:958px !important}
 
 div#main-content-container {
 }

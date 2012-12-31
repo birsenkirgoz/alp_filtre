@@ -1,9 +1,9 @@
-s:4292:"/* customizable styles */
+s:4287:"/* customizable styles */
 
 
 body {
 	height: auto; 
-	/* customize_body-background */ background-color: #dff5ff; /* customize_body-background */
+	/* customize_body-background  background-color: #dff5ff; customize_body-background */
 }
 
 body#tinymce {

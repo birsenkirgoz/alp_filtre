@@ -1,0 +1,20 @@
+
+@font-face {font-family: Microgramma Bold Extended; src: url(MicrogrammaBoldExtended.otf);}
+
+body {margin:0; padding:0; background:#FFF;}
+header {}
+header #headerwall {background:#9D1C1F; width:100%;}
+header #headerwall .header {margin:auto; width:960px; height:105px;}
+header #headerwall .header .header-left {float:left; width:435px; height: 40px; text-align:center; margin-top:30px;}
+header #headerwall .header .header-right {float:right; width:435px; height: 100px; text-align:right}
+header #headerwall .header .page-title-wall {clear:both; position:relative; top:-25px; width:435px;  height:55px; background:url(page_title_bg.png) no-repeat; text-align:center;}
+header #headerwall .header .page-title-wall h4 {font-family:Microgramma Bold Extended; font-size:33px; font-weight: normal; color:#9D1C1F; margin:0; padding:9px 5px 3px 5px;}
+header #headerwall .header .menu-wall{width:960px; border-top:2px solid #9D1C1F; position: relative; top:-25px; border-bottom:2px solid #9D1C1F; padding:6px 3px 5px 3px;}
+
+div#container {height:200px}
+
+footer {background:url(footer-bg.png) no-repeat #9D1C1F; width:100%;}
+footer #footer-wall{margin:auto; width:960px; height:60px; background:#fff;}
+footer #footer-wall .footer-left {float:left; width:240px; height: 60px; text-align:left}
+footer #footer-wall .footer-right {float:left; width:720px; height: 60px; border-top: 2px solid #9D1C1F;}
+footer #footer-wall .footer-right .footer {height:60px; text-align:left;}

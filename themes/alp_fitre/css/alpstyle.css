@@ -1,0 +1,51 @@
+
+@font-face {font-family: Microgramma Bold Extended; src: url(MicrogrammaBoldExtended.otf);}
+
+body {margin:0; padding:0; background:#FFF;}
+#page {}
+
+div#page a, div#page a:link, div#page a:visited, div#page a:active {
+    color: #0099FF;
+    text-decoration: none;
+}
+div#page a, div#page a:link, div#page a:visited, div#page a:active {
+    color: #0099FF;
+    text-decoration: none;
+}
+#page #headerwall {background:#9D1C1F; width:100%;}
+
+#page #headerwall .header {margin:auto; width:960px; height:105px;}
+
+#page #headerwall .header .header-left {float:left; width:435px; height: 40px; text-align:center; margin-top:30px;}
+
+#page #headerwall .header .header-right {float:right; width:435px; height: 100px; text-align:right}
+
+#page #headerwall .header .page-title-wall {clear:both; position:relative; top:-25px; width:435px;  height:55px; background:url(../images/page_title_bg.png) no-repeat; text-align:center;}
+
+#page #headerwall .header .page-title-wall h4 {font-family:Microgramma Bold Extended; font-size:32px; font-weight: normal; color:#9D1C1F; margin:0; padding:5px 5px 0 5px; letter-spacing:16px; border: 1px solid #9D1C1F}
+
+#page #headerwall .header .menu-wall{height:23px; position: relative; top:-20px; border:2px solid #9D1C1F; padding:6px 0 5px 0;}
+
+#page #headerwall .header .menu-wall ul { float: left; list-style-type: none; margin:0; }
+
+#page #headerwall .header .menu-wall ul li { display: inline; font-family: Helvetica,Arial,sans-serif; font-size: 13px; margin: 0; }
+
+#page #headerwall .header .menu-wall ul li a { color: #000000; padding: 11px; text-decoration: none; font-weight:bold; }
+
+#page #headerwall .header .menu-wall ul li a.nav-path-selected, ul li.nav-selected { background-color: #9D1C1F; color:#FFF !important; }
+
+#page #headerwall .header .menu-wall ul li a:hover { /* customize_nav-hover */ background-color: #9D1C1F; /* customize_nav-hover */ color:#FFF; border-right: none; }
+
+#footer-wall{margin:auto; width:958px; height:85px; background:#9D1C1F; color:#C9978D; padding:10px 0; margin:1px;}
+
+#footer-wall a {color:#C9978D !important; font-weight:bold; text-decoration:none; letter-spacing:2px;}
+
+#footer-wall a:hover {text-decoration:underline}
+
+#footer-wall p {padding:0; margin-top:0 !important; margin-bottom:5px !important; text-align:center}
+
+#footer-wall .footer-left {float:left; width:220px; text-align:left}
+
+#footer-wall .footer-right {float:left; width:700px;}
+
+#footer-wall .footer-right .footer {}
