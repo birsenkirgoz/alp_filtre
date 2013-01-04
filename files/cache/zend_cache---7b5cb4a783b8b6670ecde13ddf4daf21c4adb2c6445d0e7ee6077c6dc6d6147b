@@ -1,4 +1,4 @@
-s:4287:"/* customizable styles */
+s:4429:"/* customizable styles */
 
 
 body {
@@ -52,16 +52,18 @@ div#main-container a, div#main-container a:link, div#main-container a:visited, d
 	text-decoration: none;
 }
 
-div#main-container h1, div#main-container h2, div#main-container h3, div#main-container h4, div#main-container h5, div#main-container h6 {
-	/* customize_headings */ color: #000; /* customize_headings */
+div#main-container h1, div#main-container h2, div#main-container h3, div#main-container h4, div#main-container h6 {
+	/* customize_headings */ color: #9D1C1F; /* customize_headings */
 }
+
+div#main-container h5 {color:#000000}
 
 div#main-container .ccm-tags-display ul.ccm-tag-list li {
 	/* customize_tag-highlight */ background-color: #A0DBE3; /* customize_tag-highlight */
 }
 
 div#main-container, div#main-container ul li {
-	/* customize_p-font */ font-family: 'Merriweather', Georgia, serif; line-height: 1.8em; font-size: 14px; /* customize_p-font */
+	/* customize_p-font */ line-height: 1.4em; font-size: 13px; /* customize_p-font */
 	/* customize_text */ color: #000; /* customize_text */
 
 }
@@ -76,11 +78,20 @@ div#main-container a:hover {
 div#main-container p {
 	margin-bottom: 20px;
 	margin-top: 20px;
+        text-align:justify;
 }
-
+div#main-container ul {
+    
+}
 div#main-container ul li {
 }
 
+/*
+div#main-container ul li:before {
+    content: "■ ";
+    color: red;  or whatever color you prefer 
+}
+*/
 div#main-container h1 {
 	font-size: 32px;
 	padding-top: 0px;

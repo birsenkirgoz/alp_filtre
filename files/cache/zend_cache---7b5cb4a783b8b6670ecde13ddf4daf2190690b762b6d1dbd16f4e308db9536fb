@@ -1,0 +1,9 @@
+s:539:"<h6>Seçilmiş Eklentiler</h6>
+	<div class="clearfix">
+	<img src="http://www.concrete5.org/files/3313/4749/8810/bootstrap_image_gallery_icon.png" width="97" height="97" style="float: left; margin-right: 10px; margin-bottom: 10px" />
+	<h3>Bootstrap Image Gallery</h3>
+	<p>A responsive image gallery that features mouse and keyboard navigation, transition effects, full screen mode, slideshow and CDN functionality.</p>
+	</div>
+	
+	<a href="javascript:void(0)" onclick="ccm_getMarketplaceItemDetails(1015)" class="btn">Daha Fazla Öğren</a>
+";

@@ -1,4 +1,4 @@
-s:1962:"/* Greek Yogurt theme by concrete5 */
+s:1952:"/* Greek Yogurt theme by concrete5 */
 
 /* some general styles */
 html {
@@ -24,7 +24,7 @@ div#main-content-container {
 }
 
 div#main-content-inner {
-	margin: 55px 40px 60px 40px;
+	margin: 50px 20px;
 }
 
 /* right-sidebar */

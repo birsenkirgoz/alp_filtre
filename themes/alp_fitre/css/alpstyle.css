@@ -22,15 +22,15 @@ div#page a, div#page a:link, div#page a:visited, div#page a:active {
 
 #page #headerwall .header .page-title-wall {clear:both; position:relative; top:-25px; width:435px;  height:55px; background:url(../images/page_title_bg.png) no-repeat; text-align:center;}
 
-#page #headerwall .header .page-title-wall h4 {font-family:Microgramma Bold Extended; font-size:32px; font-weight: normal; color:#9D1C1F; margin:0; padding:5px 5px 0 5px; letter-spacing:16px; border: 1px solid #9D1C1F}
+#page #headerwall .header .page-title-wall h4 {font-family:Microgramma Bold Extended; font-size:22px; font-weight: normal; color:#9D1C1F; margin:0; padding:11px 0; letter-spacing:3px; border: 2px solid #9D1C1F}
 
-#page #headerwall .header .menu-wall{height:23px; position: relative; top:-20px; border:2px solid #9D1C1F; padding:6px 0 5px 0;}
+#page #headerwall .header .menu-wall{height:23px; position: relative; top:-18px; border:2px solid #9D1C1F; padding:6px 0 0;}
 
 #page #headerwall .header .menu-wall ul { float: left; list-style-type: none; margin:0; }
 
 #page #headerwall .header .menu-wall ul li { display: inline; font-family: Helvetica,Arial,sans-serif; font-size: 13px; margin: 0; }
 
-#page #headerwall .header .menu-wall ul li a { color: #000000; padding: 11px; text-decoration: none; font-weight:bold; }
+#page #headerwall .header .menu-wall ul li a { color: #000000; padding:11px 11px 12px 11px; text-decoration: none; font-weight:bold; }
 
 #page #headerwall .header .menu-wall ul li a.nav-path-selected, ul li.nav-selected { background-color: #9D1C1F; color:#FFF !important; }
 
@@ -49,3 +49,14 @@ div#page a, div#page a:link, div#page a:visited, div#page a:active {
 #footer-wall .footer-right {float:left; width:700px;}
 
 #footer-wall .footer-right .footer {}
+#footer-wall .footer-right .footer p {text-align:center;  line-height: 1.8em;}
+
+
+table.filtre-text tr td.sol-icerik {padding-right:15px}
+table.filtre-text tr td.sag-icerik {padding-left:15px}
+table.secim-cizelgesi {margin-bottom:25px;}
+table.secim-cizelgesi tr td {text-align:center; padding:3px; vertical-align:middle; border:1px solid #9D1C1F; font-size:11.7px; }
+table.secim-cizelgesi tr td.tablo-baslik {padding:10px; background:url(../images/tablo-baslik.png) repeat-x;}
+table.secim-cizelgesi tr th {font-weight:bold; font-size:11px; background:#9D1C1F; color:#FFF; padding:5px; text-align:center; vertical-align:middle; border:1px solid #9D1C1F  }
+table.secim-cizelgesi tr td table.dipnot {margin:0}
+table.secim-cizelgesi tr td table.dipnot tr td{border:none; text-align:left}

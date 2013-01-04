@@ -1,0 +1,9 @@
+s:498:"<h6>Seçilmiş Tema</h6>
+	<div class="clearfix">
+	<img src="http://www.concrete5.org/files/9513/4623/7827/axis_icon.png" width="97" height="97" style="float: left; margin-right: 10px; margin-bottom: 10px" />
+	<h3>Axis</h3>
+	<p>Responsive and highly customizable Theme With Horizontal and Vertical Navigation options.</p>
+	</div>
+	
+	<a href="javascript:void(0)" onclick="ccm_getMarketplaceItemDetails(1032)" href="http://www.concrete5.org/marketplace/themes/axis" class="btn">Daha Fazla Öğren</a>
+";

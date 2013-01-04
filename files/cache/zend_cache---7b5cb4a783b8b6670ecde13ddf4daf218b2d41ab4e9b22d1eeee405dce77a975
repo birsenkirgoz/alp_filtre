@@ -1,0 +1,15 @@
+s:855:"<div>
+<p><img src="http://newsflow.concrete5.org/files/6613/2613/6071/QuickDiversion_Small.png" alt="QuickDiversion_Small.png" width="170" height="30" /></p>
+<h3>Leap Motion</h3>
+<p>The Leap Motion device creates 8 cubic feet of 3-D space that is recreated on the computer and can be interacted with via hands, pens or random objects. It's Windows 8 and Mac OS X ready and will be shipping with Asus computers soon.</p><div><a href="http://www.wired.com/gadgetlab/2013/01/leap-motion-asus/?&utm_source=newsflow&utm_medium=web&utm_content=0&utm_campaign=newsflow" class="btn " target="_blank">Read More</a></div>
+</div>
+
+	<div class="newsflow-paging-next"><a href="javascript:void(0)" onclick="ccm_showNewsflowOffsite(255)"><span></span></a></div>
+
+	<script type="text/javascript">
+	$(function() {
+		ccm_setNewsflowPagingArrowHeight();
+	});
+	</script>
+	
+";
